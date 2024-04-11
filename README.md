@@ -73,7 +73,7 @@ cd pawtraits
 Instala las dependencias del proyecto usando npm:
 
 ```bash
-npm run dev
+npm install
 ```
 
 **Configura las Variables de Entorno**
